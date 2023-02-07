@@ -9,6 +9,8 @@ describe '#greet_programmer' do
   
 end
 
+
+
 describe '#greet' do
 
   it 'outputs a string "Hello, Naureen!" when called with "Naureen"' do
@@ -20,6 +22,7 @@ describe '#greet' do
   end
 
 end
+
 
 describe '#greet_with_default' do
 
